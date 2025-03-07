@@ -52,7 +52,6 @@ The **Dining Philosophers** problem is a classic concurrency challenge that test
 
 ## 🛠️ Authors
 - **Hamza Almuhisen**
-- **Alaa Almuhisen**
 
 ## 📜 License
 This project follows the **42 School rules** and is for educational purposes only.
